@@ -1,0 +1,17 @@
+.foooter__navigation li, 
+.navigation li{
+	display: inline-block;
+}
+.conteiner{
+	max-width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 16px;
+	padding-right: 16px;
+	background-color: aqua;
+}
+
+h3{
+	font-size: 50px;
+	color: red;
+}
